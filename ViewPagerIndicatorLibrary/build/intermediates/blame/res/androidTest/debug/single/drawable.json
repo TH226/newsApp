@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android app\\NewsApp\\ViewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Android app\\NewsApp\\ViewPagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android app\\NewsApp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Android app\\NewsApp\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    }
+]
